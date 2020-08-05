@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+
+### [Day 3](#day3): August 4, 2020
+**Today's Progress**: Made a good bit of progress in getting a script to spit out the workbooks and their UUIDs. Struggling with the table names now...
+
+**Thoughts:** Yikes, I'm going down an ugly rabbit hole with this solution.. 
+
 ### [Day 2](#day2): August 3, 2020
 **Today's Progress**: Was able to get a lambda to connect and update a table within Honeycode, without the other tables formulas being ruined!
 
