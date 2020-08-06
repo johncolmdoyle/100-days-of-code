@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
 
+### [Day 4](#day4): August 4, 2020
+**Today's Progress**: Great progress, was able to get the script to output Honeycode's workbook and table arns. Pulling together the whole piece by setting up the DB, and working on a very basic CRUD lambda to test the end to end workflow with.
+
+**Thoughts:** Skipping a lot of best practices for this demo... wonder if I should go back to clean everything up.. but these are not meant to be finished products and simply proof of ideas..
+
+**Link to work:** [query-honeycode](https://github.com/johncolmdoyle/aws-rds-to-honeycode/tree/master/query-honeycode)
+
 ### [Day 3](#day3): August 4, 2020
 **Today's Progress**: Made a good bit of progress in getting a script to spit out the workbooks and their UUIDs. Struggling with the table names now...
 
