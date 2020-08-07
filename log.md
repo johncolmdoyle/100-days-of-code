@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
 
+### [Day 5](#day5): August 5, 2020
+**Today's Progress**: Right, it appears that I've got the end to end flow working successfully! Update a db table, see the trigger output in the Honeycode table!
+
+**Thoughts:** Now, time to write up a blog post on it and go a video tutorial of the poc.
+
+**Link to work:** [query-honeycode](https://github.com/johncolmdoyle/aws-rds-to-honeycode)
+
 ### [Day 4](#day4): August 4, 2020
 **Today's Progress**: Great progress, was able to get the script to output Honeycode's workbook and table arns. Pulling together the whole piece by setting up the DB, and working on a very basic CRUD lambda to test the end to end workflow with.
 
