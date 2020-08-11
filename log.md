@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### [Day 6](#day6): August 11, 2020
+
+**Today's Progress**: Got the blog post up and all the code fixed with Honeycode! Had messed around with roost.io over the weekend, but no actual code written so guess can't count those :(
+
+**Thoughts:** Just dumped everything into a single blog post, with no true planning.. pretty much a mess, but just want to move on from it already!
+
+**Link to work:**  [blog post](https://gizmo.codes/postgresql-to-honeycode-pipeline/) and [code](https://github.com/johncolmdoyle/aws-rds-to-honeycode)
+
 
 ### [Day 5](#day5): August 5, 2020
 **Today's Progress**: Right, it appears that I've got the end to end flow working successfully! Update a db table, see the trigger output in the Honeycode table!
