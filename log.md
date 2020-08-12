@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### [Day 7](#day7): August 12, 2020
+
+**Today's Progress**: Learning about k3sup and focused on installing and configuring Ubuntu via Virtualbox for testing Kubernetes.
+
+**Thoughts:** I need to write up a post, as it has been way too long since I last stood up Ubuntu in VB, setting up SSH keys etc...
+
+
 ### [Day 6](#day6): August 11, 2020
 
 **Today's Progress**: Got the blog post up and all the code fixed with Honeycode! Had messed around with roost.io over the weekend, but no actual code written so guess can't count those :(
