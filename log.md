@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### [Day 8](#day8): August 12, 2020
+
+**Today's Progress**: Eh, questionable in terms of the code, spent the evening with Virtualbox and k3sup, got everything working and networked properly!
+
+**Thoughts:** It is good to setup VirtualBox again, have a proper master with workers setup.
+
+**Link to work:**  [blog post](https://gizmo.codes/k3sup-on-macos-catalina/)
+
 ### [Day 7](#day7): August 12, 2020
 
 **Today's Progress**: Learning about k3sup and focused on installing and configuring Ubuntu via Virtualbox for testing Kubernetes.
