@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### [Day 9](#day9): August 18, 2020
+
+**Today's Progress**: Wonderful progress, banged out a quick project to like KubeCon EU sessions based on their popularity
+
+**Thoughts:** Enjoyed working on AWS CDK again - been some fantastic updates since it first got released!
+
+**Link to work:**  [github repo](https://github.com/johncolmdoyle/kubecon-eu-popular-sessions)
+
 ### [Day 8](#day8): August 12, 2020
 
 **Today's Progress**: Eh, questionable in terms of the code, spent the evening with Virtualbox and k3sup, got everything working and networked properly!
