@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### [Day 11](#day11): August 20, 2020
+
+**Today's Progress:** Got the RDS backup successfully migrated over to CDK!
+
+**Thoughts:** Wow, installing postgresql 11.6 on amazon linux 2 is a massive pain...
+
+**Link to work:** [aws-rds-nightly-backup](https://github.com/johncolmdoyle/aws-rds-nightly-backup)
+
 ### [Day 10](#day10): August 19, 2020
 
 **Today's Progress:** A little bit more work on the kubeconvibes - going to track popularity over time. Started another mini project from within Silbo - migrating the setup to AWS CDK how we automate some of our nightly SQL statements.
