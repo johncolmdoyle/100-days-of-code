@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### [Day 12](#day12): August 22, 2020
+
+**Today's Progress:** Spent a large portion of the day in @cfregly and @anbarth's workshop on #Kubeflow + #BERT + #GPU + #TensorFlow + #Keras + #SageMaker!
+
+**Thoughts:** This was the second time I've taken the course, the quantity of information thrown at you is so intense. Made it a lot further - though still haven't achieved the whole 8 hours.
+
+**Link to work:** [datascienceonaws.com](https://github.com/johncolmdoyle/workshop)
+
 ### [Day 11](#day11): August 20, 2020
 
 **Today's Progress:** Got the RDS backup successfully migrated over to CDK!
